@@ -4,25 +4,28 @@
 
 # EmmaTech Group Community
 
-Welcome to **EmmaTech Group** 👋🏽 — a growing community of developers, designers, telecom engineers, product managers, and tech enthusiasts dedicated to collaboration, knowledge‑sharing, and open‑source contributions.  
+Welcome to **EmmaTech Group** 👋🏽 — a growing community of tech service providers offering device repair, software services, internet support, and digital skills training, and tech enthusiasts dedicated to collaboration, knowledge‑sharing, and open‑source contributions.  
 
 ---
 
 ## 🌍 About Us
 EmmaTech Group is more than just a repair and telecom brand.  
-We are a **community‑driven initiative** that connects people across different skill levels and backgrounds, helping them learn, build, and grow together.  
+We are a **community‑driven initiative** that connects Repair Solutions Provider in different locations, and person of different skill levels and backgrounds, helping them learn, build, and grow together.  
 
 Our focus:
-- 🤝 Collaboration through open‑source projects  
-- 📝 Knowledge‑sharing via blogs, articles, and discussions  
-- 📅 Community events and workshops  
-- 🚀 Building impactful solutions with real‑world value  
+EmmaTech Group exists to make technology accessible, reliable, and affordable for everyday people.
+We focus on:
+-🤝 Collaboration through open‑source projects and community initiatives
+-🛠️ Repair & Support for phones, laptops, and telecom devices
+-🌐 Internet & Connectivity services that keep people online
+-📚 Digital Skills Training to empower individuals with practical knowledge
+ 
 
 ---
 
 ## 💡 What We Do
 - **Open‑Source Projects**: Collaborative software and telecom projects led and maintained by the community.  
-- **Mentorship & Learning**: Helping new developers and technicians grow through guidance and peer learning.  
+- **Mentorship & Learning**: Helping new Repair Solutions Provider and technicians grow through guidance and peer learning.  
 - **Community Platform**: Tools and spaces that connect members worldwide.  
 - **Events**: Hackathons, meetups, and knowledge sessions to engage and inspire.  
 
@@ -41,7 +44,7 @@ Everyone is welcome! Here’s how you can join us:
 ## 👥 Our People
 EmmaTech Group is powered by volunteers and contributors who dedicate time and skills to make the community thrive.  
 
-- **Founder**: Soh  
+- **Founder**: Emmanuel Tamutana  
 - **Engineering Lead**: EmmaTech Core Team  
 - **Contributors & Other Volunteers**: See our [community members](https://github.com/orgs/EmmaTech-Group/people).  
 
@@ -53,5 +56,6 @@ All repositories under the EmmaTech Group are licensed under the [MIT License](h
 ---
 
 <p align="center">✨ Repairing together. Building together. Growing together. ✨</p>
+
 
 
