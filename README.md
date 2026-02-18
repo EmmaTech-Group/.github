@@ -1,1 +1,1 @@
-# .github
+# EmmaTech Group
