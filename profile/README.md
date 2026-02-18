@@ -47,7 +47,7 @@ Everyone is welcome! Here’s how you can join us:
 EmmaTech Group is powered by volunteers and contributors who dedicate time and skills to make the community thrive.  
 
 - **Founder**: Emmanuel Tamutana  
-- **Engineering Lead**: EmmaTech Core Team  
+- **Engineering Lead**: [EmmaTech Core Team](https://github.com/marrious11)
 - **Contributors & Other Volunteers**: See our [community members](https://github.com/orgs/EmmaTech-Group/people).  
 
 ---
@@ -58,6 +58,7 @@ All repositories under the EmmaTech Group are licensed under the [MIT License](h
 ---
 
 <p align="center">✨ Repairing together. Building together. Growing together. ✨</p>
+
 
 
 
