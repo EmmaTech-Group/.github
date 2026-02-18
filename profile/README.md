@@ -12,20 +12,22 @@ Welcome to **EmmaTech Group** 👋🏽 — a growing community of tech service p
 EmmaTech Group is more than just a repair and telecom brand.  
 We are a **community‑driven initiative** that connects Repair Solutions Provider in different locations, and person of different skill levels and backgrounds, helping them learn, build, and grow together.  
 
-Our focus:
+---
+
+## Our focus:
 EmmaTech Group exists to make technology accessible, reliable, and affordable for everyday people.
 We focus on:
--🤝 Collaboration through open‑source projects and community initiatives
--🛠️ Repair & Support for phones, laptops, and telecom devices
--🌐 Internet & Connectivity services that keep people online
--📚 Digital Skills Training to empower individuals with practical knowledge
+- 🤝 Collaboration through open‑source projects and community initiatives
+- 🛠️ Repair & Support for phones, laptops, and telecom devices
+- 🌐 Internet & Connectivity services that keep people online
+- 📚 Digital Skills Training to empower individuals with practical knowledge
  
 
 ---
 
 ## 💡 What We Do
 - **Open‑Source Projects**: Collaborative software and telecom projects led and maintained by the community.  
-- **Mentorship & Learning**: Helping new Repair Solutions Provider and technicians grow through guidance and peer learning.  
+- **Mentorship & Learning**: Helping new developers, Repair Solutions Provider and technicians grow through guidance and peer learning.  
 - **Community Platform**: Tools and spaces that connect members worldwide.  
 - **Events**: Hackathons, meetups, and knowledge sessions to engage and inspire.  
 
@@ -56,6 +58,7 @@ All repositories under the EmmaTech Group are licensed under the [MIT License](h
 ---
 
 <p align="center">✨ Repairing together. Building together. Growing together. ✨</p>
+
 
 
 
